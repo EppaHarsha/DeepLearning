@@ -1,3 +1,7 @@
 /CNN/data/
 *.tar.gz
 .ipynb_checkpoints/
+
+/ANN/Data/
+
+/RNN/Data/
